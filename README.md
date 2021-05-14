@@ -1,4 +1,4 @@
-# REAL-TIME FACE DETECTION AND OVERLAY EFFECTS
+# Real-time Face Detection and Overlay Effects
 ## Final group project for Computer Vision course at UW Bothell
 
 With the rise of photo and video sharing social networking services, face detection has become one of the most popular and fastest growing fields in computer vision. Following the quarantine restriction in response to the COVID-19 pandemic, the emergence of teleconference applications, such as Zoom, has motivated our group to dive into the concepts of face detection and augmented-reality filters for our final project. <br/>
